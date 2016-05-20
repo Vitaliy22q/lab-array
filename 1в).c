@@ -15,6 +15,6 @@ int main(int argc, char *argv[]) {
 		mas[i] =(rand()%(b-a))+a;
 		printf("\nmas[%d] = %d", i, mas[i]);
 		
-	}	
+	} 	
 	return 0;
 }
