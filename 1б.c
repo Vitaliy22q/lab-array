@@ -10,7 +10,7 @@ int main(int argc, char *argv[]) {
 	for(i=0;i < 100;i++){
 		mas [i] = (rand () % 200)-100;
 		printf ("\nmas[%d]=%d",i,mas[i]);
-	}
+	} 
 	
 	return 0;
 }
