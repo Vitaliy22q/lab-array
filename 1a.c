@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 	for(i=0;i < n;i++){
 		mas [i] = rand () % 100;
 		printf ("\nmas[%d]=%d",i,mas[i]);
-	}
+        }
 	
 	return 0;
 }
